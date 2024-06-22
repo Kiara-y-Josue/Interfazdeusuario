@@ -16,4 +16,4 @@ Cristhian Aveiga
 ----------
 
 ### GIF de demostración
-![Demostración](grab.webm)
+![Demostración](gradle/wrapper/grabacion.gif)
