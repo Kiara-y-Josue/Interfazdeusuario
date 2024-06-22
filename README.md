@@ -1,4 +1,4 @@
-# Tarea 2
+# Tarea 
 ## Diseño Responsivo del Inicio de Sesión de una Aplicación Móvil
 ### Integrantes
 INTRIAGO POSLIGUA KIARA JULISSA  
